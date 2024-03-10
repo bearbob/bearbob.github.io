@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Better Than Yesterday</title>
+    <link>http://localhost:1313/categories/docs/</link>
+    <description>Recent content in Docs on Better Than Yesterday</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>me@example.com (bjoern)</managingEditor>
+    <webMaster>me@example.com (bjoern)</webMaster>
+    <lastBuildDate>Sat, 09 Mar 2024 22:39:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making Documentation A Routine</title>
+      <link>http://localhost:1313/post/make-documentation-a-routine/</link>
+      <pubDate>Tue, 18 Jul 2023 10:00:00 +0100</pubDate><author>me@example.com (bjoern)</author>
+      <guid>http://localhost:1313/post/make-documentation-a-routine/</guid>
+      <description>This article was first published in the Trade Republic Engineering Blog&#xA;Most engineers agree that technical documentation is valuable to their job and that there is too little of it. Yet, we often struggle when it comes to creating documentation for our own work. When under pressure, documentation is moved to the mysterious time frame called “When done with this project and before the next one”.&#xA;From there it usually goes to the “Whenever we have time” bucket.</description>
+    </item>
+  </channel>
+</rss>

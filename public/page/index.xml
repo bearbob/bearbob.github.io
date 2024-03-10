@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Better Than Yesterday</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on Better Than Yesterday</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;p&gt;Hi there and welcome to my personal blog!
+I use this space to explore my own thoughts in writing, focusing on engineering processes, leadership and professional growth.&lt;/p&gt;
+&lt;p&gt;Creating my own video games was my gateway into the software engineering world. Over the years solving problems has become my passion and everyday motivation.
+I love to contiously test my limits, while continuing to improve the skills i already have - Always aiming to be better than yesterday.&lt;/p&gt;
+&lt;p&gt;I believe that work should be both fun and challenging and that teams excells when they can trust and support each other - from the smallest to the biggest tasks.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/page/archives/</link>
+        <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Watchlist</title>
+        <link>http://localhost:1313/page/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/links/</guid>
+        <description>&lt;p&gt;This page lists resources that I found useful over the course of my professional career.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

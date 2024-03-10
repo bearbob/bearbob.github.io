@@ -1,0 +1,43 @@
+baseURL = 'https://bearbob.github.io/'
+languageCode = 'en-us'
+title = 'Better Than Yesterday'
+enableRobotsTXT = true
+enableEmoji = true
+theme = 'stack'
+paginate = 3              # Number of articles displayed on the homepag
+rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
+googleAnalytics = ""      # UA-XXXXXXXX-X
+defaultContentLanguage = "en"           # Default language to use
+[languages.en]
+  languageCode = "en"
+
+
+[params]
+  #footer.since = "2024"            # Site creation time
+  rssFullContent = true     # if false, Rss feed instead of the summary
+
+  author.name = "bjoern"      # essential   
+  author.url = "/about"        # optional 
+
+  # site info (optional)                              
+  logoTitle = "Better Than Yesterday"        # default: the title value
+  keywords = ["engineering", "blog","leadership"]
+  description = "A personal blog about engineering leadership."
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormat.published = "Jan 02, 2006"
+  dateFormat.lastUpdated = "Jan 02, 2006 15:04 MST"
+
+  [params.Article]
+    math = true
+    toc = true
+    readingTime = true
+  [params.Sidebar]
+    compact = true                                     
+    emoji = "🦆"
+    subtitle = "Thoughts about engineering, management and leadership"
+    avatar.enabled = true
+    avatar.local = true
+    avatar.src = "img/avatar.jpg"
+  [[params.Widgets.page]]
+    type = "toc"

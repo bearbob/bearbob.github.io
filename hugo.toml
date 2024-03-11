@@ -23,6 +23,7 @@ defaultContentLanguage = "en"           # Default language to use
   logoTitle = "Better Than Yesterday"        # default: the title value
   keywords = ["engineering", "blog","leadership"]
   description = "A personal blog about engineering leadership."
+  favicon = "/thumbnail.png"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormat.published = "Jan 02, 2006"

@@ -11,17 +11,20 @@ links:
   - title: GitHub
     #description: GitHub is the world's largest software development platform.
     website: https://github.com/bearbob
-    image: icons8-github-100.png
+    image: github-mark.png
   - title: Mastodon
     website: https://det.social/@tripletwenty
-    image: mastodon-96.png
+    image: mastodon-logo.png
   - title: TripleTwenty
     description: I host a german RPG podcast where I play games like Dungeons & Dragons or Fate with Friends
     website: https://tripletwenty.net
     image: tripletwenty_400.jpg
   - title: LinkedIn
     website: https://www.linkedin.com/in/bjoern-schmidt/
-    image: icons8-linkedin-100.png
+    image: linkedin-logo.png
+  - title: Medium
+    website: https://medium.com/@bjoern.schmidt
+    image: medium-logo.png
 menu:
     main: 
         weight: -90

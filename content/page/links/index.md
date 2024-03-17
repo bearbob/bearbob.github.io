@@ -7,6 +7,7 @@ menu:
             icon: link
 
 comments: false
+image: "cover.webp"
 ---
 This page lists resources (websites, papers, videos, ...) that I found useful over the course of my professional career.
 

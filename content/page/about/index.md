@@ -6,7 +6,8 @@ aliases:
   - about-me
   - contact
 #license: CC BY-NC-ND
-lastmod: '2024-03-10'
+lastmod: '2024-03-17'
+image: "about_cover.jpg"
 links:
   - title: GitHub
     #description: GitHub is the world's largest software development platform.

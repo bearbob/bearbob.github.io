@@ -32,7 +32,7 @@ But they have a deeper meaning to me.
 In total I got to 56 items, which means I managed to find something more than once per week. 
 Here are my top 5 from that list!
 
-# Follow your vision
+## Follow your vision
 > 2023-03-01 It is easier to follow a vision if you create desired behaviours for this vision. 
 > These behaviours explains how you will act upon this vision
 
@@ -55,7 +55,7 @@ Since I am a huge fan of bringing examples to the table, let's look at one of my
 These behaviours make clear that my value does not exist to make "Work versus private life" decision, but to help me set my priorities in general. 
 
 
-# Gain advantage
+## Gain advantage
 > 2023-06-26 Many people don't invest time into their engineering skills in their free time, which is fine. But they also need to understand that those that do sp will exceed them in terms of having been exposed to other ideas, best practices, and all the other goodies you can find in books.  
 > \- Michael De La Fontaine
 
@@ -83,7 +83,7 @@ As a side note, there also is a great quote from Phil Heath: "Hard work beats ta
 While (very likely) not the intention of him saying it, for me this means that you are either talented or you are not. 
 But you can't go wrong with putting in hard work.
 
-# Expand your comfort zone
+## Expand your comfort zone
 > 2023-07-08 You don’t have to leave your comfort zone, if you can expand it. 
 
 We often hear motivational quotes and speeches, claiming that you need to leave your comfort zone to grow. 
@@ -109,9 +109,9 @@ Which resulted in the idea of having my own blog seeming way more realistic.
 And here we are.
 
 
-# Goals and identity
-> 2023-08-31 There is a significant difference between what you want to achieve (goal) and who you want to become (identity). A goal is vulnerable to the endless changes in life. An identity is permanent and can weather any storm. 
-- from "You Can’t Screw This Up"
+## Goals and identity
+> 2023-08-31 There is a significant difference between what you want to achieve (goal) and who you want to become (identity). A goal is vulnerable to the endless changes in life. An identity is permanent and can weather any storm.  
+> \- from "You Can’t Screw This Up"
 
 This made a huge change for me when thinking about my personal growth and how to get there. 
 Applying this learning meant no longer asking "What do I need to do to become a successful leader". 
@@ -132,9 +132,9 @@ And most important: My future self takes time to think about a decision. In our 
 Which does not mean the decision is on hold, a decision will be made. Maybe it is not the best decision, but it should be the best decision in that context.
 
 
-# Change things
-> 2023-09-15 I am no longer accepting the things I cannot change. I am changing the things I cannot accept. 
-- Angela Davis
+## Change things
+> 2023-09-15 I am no longer accepting the things I cannot change. I am changing the things I cannot accept.  
+> \- Angela Davis
 
 My perspective of things I can change and make better, the enthusiastic fire that burned in me to make the world a better place, changed quite a bit in recent years. 
 When I started my professional career, the roof had no ceiling. 
@@ -157,3 +157,10 @@ So if people approach me with their cool, new idea that I already had before, I 
 I will support them, tell them what experience I have with this problem so that they can start from a better position than I did. 
 
 We have to accept the things we cannot change. But we can change a lot of things.
+
+## The Way Forward
+
+Even though I did not reach my initial goal, I have been happy with the outcome of the resolution.
+Looking back at the things I wrote down after a year, remembering the situations and thinking whether I still apply the learning was insightful. 
+
+Looking forward to what I will learn in 2024!

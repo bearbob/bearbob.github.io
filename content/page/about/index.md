@@ -26,6 +26,9 @@ links:
   - title: Medium
     website: https://medium.com/@bjoern.schmidt
     image: medium-logo.png
+  - title: DEV.to
+    website: https://dev.to/bearbob
+    image: devto-logo.png
 menu:
     main: 
         weight: -90

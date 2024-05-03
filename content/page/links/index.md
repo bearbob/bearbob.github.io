@@ -16,3 +16,6 @@ This page lists resources (websites, papers, videos, ...) that I found useful ov
 
 ## System Design
 - [Google Zanzibar](https://www.permify.co/post/google-zanzibar-in-a-nutshell/ "https://www.permify.co/post/google-zanzibar-in-a-nutshell/") shared by [Gonzalo](https://github.com/pecigonzalo), a global authorization system that is used by Google and AirBnB
+
+## Communication Skills
+- [How to build deeper, more robust relationships | Carole Robin (Stanford GSB professor, “Touchy Feely”)](https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin) is a podcast episode about how to use communication as a skill more effectively, explaining a few helpful tricks (e.g. "Ask 'What, how, when' and never 'why'") and mental models

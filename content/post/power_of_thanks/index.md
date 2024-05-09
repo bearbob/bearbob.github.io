@@ -1,7 +1,7 @@
 +++
 title = 'The Power Of Thanks'
-date = 2024-05-09T13:00:00+01:00
-lastmod = 2024-05-09T13:00:00+01:00
+date = 2024-05-09T12:20:00+01:00
+lastmod = 2024-05-09T12:20:00+01:00
 description = "The methods and effects of praising others"
 draft = false
 tags = ["routines", "praise", "leadership", "communication"]

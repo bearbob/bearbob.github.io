@@ -8,7 +8,7 @@ tags = ["routines", "praise", "leadership", "communication"]
 author = "bjoern"
 comment = false
 toc = true
-image = "frontmatter.webp"
+image = "cover.webp"
 +++
 
 When I was a kid, my grandfather used to tell me a story:

@@ -12,7 +12,7 @@ image = "cover.webp"
 +++
 
 When I was a kid, my grandfather used to tell me a story:
-> "Back when Ie was in elementary school, I passed by a garden on my way home. 
+> "Back when I was in elementary school, I passed by a garden on my way home. 
 > An old man was standing there, every day. 
 > And every day I would greet him, without knowing that man. 
 > One day the old man stopped me and said: "You know, dozens of school kids are passing by here every day. You are the only one who greets me, day after day. That is very nice of you."

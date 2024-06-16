@@ -2,7 +2,7 @@
 title = 'Succeed A Personal Priorities'
 date = 2024-06-16T11:00:00+01:00
 lastmod = 2024-06-16T11:00:00+01:00
-description = "Spending Time Where It Matter To You"
+description = "Spending Time Where It Matters To You"
 draft = false
 tags = ["routines", "priorities", "balance"]
 author = "bjoern"

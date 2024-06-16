@@ -104,9 +104,9 @@ Now my tracked data came in handy. Just going by how much time I allocate for ea
 
 ![](chart.png)
 
-1. Sleep - 7:01h
-2. Work - 5:58h (keep in mind that this includes Saturday and Sunday)
-3. Family - ~5:30h
+1. Family - ~8:30h
+2. Sleep - 7:01h
+3. Work - 5:58h (keep in mind that this includes Saturday and Sunday)
 4. Training - 17min
 5. Pen & Paper Games - 7min
 6. Podcasting - 6min

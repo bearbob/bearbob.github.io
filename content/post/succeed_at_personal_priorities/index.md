@@ -1,5 +1,5 @@
 +++
-title = 'Succeed A Personal Priorities'
+title = 'Succeed At Personal Priorities'
 date = 2024-06-16T11:00:00+01:00
 lastmod = 2024-06-16T11:00:00+01:00
 description = "Spending Time Where It Matters To You"

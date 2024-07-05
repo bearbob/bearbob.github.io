@@ -32,11 +32,7 @@ While I was speaking about "Deliver more outcome with less money", the other man
 
 While output focuses on how many things are produced, outcome is about the effect of these things. You can make a very nice chain from your input to outcome.
 
-```mermaid
-graph TD
-    Input --> Output(Output)
-    Output --> Outcome{{Outcome}}
-```
+![](input_output_outcome.png)
 
 The tricky thing is: This is not a 1:1 relation. You can have a ton of input and output, but maybe just a small outcome. 
 
@@ -45,13 +41,7 @@ Team Nemo built a new user interface for logging that reduces the taps needed to
 Team Marlin built a new effect for buttons, showing a faint glimmer every now and then. The analytics show that users are 2% more likely to click the buttons when they have the effect. It is nice, but it does not affect the metrics. 
 So only team Nemo produced something of value.
 
-```mermaid
-graph TD
-    Nemo --> O1(UI Change)
-    Marlin --> O2(Button Effect)
-    Dory
-    O1 --> F{{More daily users}}
-```
+![](input_output_outcome_example.png)
 
 While we had 3 teams working for the same time, only one produced something with tangible a outcome. It is a simplified example and we could now start to argue that Dory will deliver two projects later or that the actual outcome of team Marlin is a learning. But that is not the point here - The point is that we have decided to do "More with less", to maximize outcome. 
 

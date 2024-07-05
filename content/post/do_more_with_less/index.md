@@ -65,5 +65,5 @@ But to get there you need to define what you want to have "more" of and what you
 
 ## References
 
-[1]: [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
-[2]: [CBS News - U.S. companies announced over 90,000 job cuts in March](https://www.cbsnews.com/news/unemployment-jobs-cuts-layoffs-march-2024/#:~:text=Companies%20are%20cutting%20jobs%20as,Challenger%20said%20in%20a%20statement.)
+- [1]: [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
+- [2]: [CBS News - U.S. companies announced over 90,000 job cuts in March](https://www.cbsnews.com/news/unemployment-jobs-cuts-layoffs-march-2024/#:~:text=Companies%20are%20cutting%20jobs%20as,Challenger%20said%20in%20a%20statement.)

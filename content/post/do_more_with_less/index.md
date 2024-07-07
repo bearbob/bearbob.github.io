@@ -22,7 +22,7 @@ On my way home I kept thinking about this conversation. Until I realized that th
 
 The issue is that with the subject missing, everybody can interpret the sentence as they see fit. To resolve this, we can just add the subjects and be explicit. In the context of the discussion the explicit description of the second half is "with less employees". I think the even better fit is "with less money", as this include time and non-people costs like infrastructure costs. 
 
-The more interesting question is how we use "more". From my perspective, there are two very different words that make sense_
+The more interesting question is how we use "more". From my perspective, there are two very different words that make sense:
 1. More Output
 2. More Outcome
 

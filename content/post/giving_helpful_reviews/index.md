@@ -1,7 +1,7 @@
 +++
 title = 'Giving Helpful Reviews'
-date = 2024-08-30T15:50:00+01:00
-lastmod = 2024-08-30T15:50:00+01:00
+date = 2024-08-30T12:00:00+01:00
+lastmod = 2024-08-30T12:00:00+01:00
 description = "Using code reviews as opportunities to coach"
 draft = false
 tags = ["code review", "coaching", "engineering", "quality", "feedback"]

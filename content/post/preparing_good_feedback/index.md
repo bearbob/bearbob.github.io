@@ -2,7 +2,7 @@
 title = 'Preparing Good Feedback - Beyond Theory'
 date = 2024-09-21T18:02:00+01:00
 lastmod = 2024-09-21T18:02:00+01:00
-description = "Turning good into reat feedback to help other grow"
+description = "Turning good into reat feedback to help others grow"
 draft = false
 tags = ["routines", "feedback", "leadership", "management", "review"]
 author = "bjoern"

@@ -34,6 +34,8 @@ If I want to share my insights, why should that stop me?
 Because these insights I had are not new.
 Would I add any value for anybody?
 
+![](meme_01.jpg)
+
 ## Room For Interpretation
 
 This was sitting in the back of my head for months.
@@ -76,6 +78,9 @@ Arnold Schwarzenegger wrote a whole book to explain his principle of "Be useful"
 This will enable everybody, people are different.
 But there will be people who can follow your trail of thought, who will understand your point.
 If only a single person learns something from your journey for their own journey, you added value.
+
+
+![](meme_02.jpg)
 
 I will now get back to writing "What bodybuilding has taught me about engineering" and "What eating cake has taught me about managing expectations".
 

@@ -2,7 +2,7 @@
 title = 'The Problem With Generic Insights'
 date = 2024-10-09T11:00:00+01:00
 lastmod = 2024-10-09T11:00:00+01:00
-description = "Discussing the balance between offering new insights versus describing a unique journey of discovery"
+description = "Why sharing things that others shared before still adds value"
 draft = false
 tags = ["insights", "learning", "storytelling", "linkedin"]
 author = "bjoern"

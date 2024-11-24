@@ -1,7 +1,7 @@
 +++
 title = 'Your Growth Plan is not a Career Plan'
-date = 2024-10-14T09:00:00+01:00
-lastmod = 2024-10-14T09:00:00+01:00
+date = 2024-10-21T09:00:00+01:00
+lastmod = 2024-10-21T09:00:00+01:00
 description = "A guide for creating a plan that helps you reach your goals"
 draft = false
 tags = ["growth", "career", "advice", "mentoring"]

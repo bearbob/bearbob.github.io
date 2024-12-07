@@ -16,6 +16,8 @@ links:
   - title: Mastodon
     website: https://det.social/@tripletwenty
     image: mastodon-logo.png
+  - title: Substack
+    website: https://codeandcake.substack.com/
   - title: TripleTwenty
     description: I host a german RPG podcast where I play games like Dungeons & Dragons or Fate with Friends
     website: https://tripletwenty.net

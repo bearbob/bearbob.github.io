@@ -1,7 +1,7 @@
 +++
 title = 'I am not a resource. I am a tool.'
-date = 2024-12-08T20:00:00+01:00
-lastmod = 2024-12-08T20:00:00+01:00
+date = 2024-12-07T20:00:00+01:00
+lastmod = 2024-12-07T20:00:00+01:00
 description = "Why adding more people does not make the project faster"
 draft = false
 tags = ["leadership", "project management", "staffing", "management"]

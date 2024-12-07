@@ -39,9 +39,9 @@ Sometimes only slightly, sometimes dramatically.
 
 > "If I have two engineers, both of them should be able to do it!".
 That's true, but the difference in skill has a ripple effect. 
-While Alice may take 2 weeks to finish their task, Bob is already done after one week. 
+While Alice may need 2 weeks to finish their task, Bob is already done after one week. 
 They will both finish. 
-But at different speeds - and speed is what we are aiming for. 
+But at different speeds - and speed is what we are optimizing for. 
 We want to deliver fast.
 
 Depending on the project adding more people might have negative consequences and suddenly the project takes longer. 
@@ -52,7 +52,7 @@ To mitigate this, more communication and synchronisation between engineers is re
 Which, you might have guessed it, takes more time.
 
 That's why asking how many people are needed is not helpful.
-The right question is: "Who do we need in the project to deliver in 2 months?"
+The better question is: "Who do we need in the project to deliver in 2 months?"
 
 ## Use your tools wisely.
 

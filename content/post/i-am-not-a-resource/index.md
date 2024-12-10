@@ -75,7 +75,7 @@ Do you need a sledge hammer or a bushing hammer?
 A rubber mallet or a brick hammer?
 Cross pein hammer?
 
-They all do the same thing, but the results depends on what you hit with which one of them. 
+They all do the same thing, but the results depend on what you hit with which one of them. 
 
 If you have a project where you already know that a lot of unknowns are waiting for you, it will not help you 
 to have people who are great at executing a plan - You need somebody to make a plan first. 

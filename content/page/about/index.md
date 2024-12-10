@@ -6,7 +6,7 @@ aliases:
   - about-me
   - contact
 #license: CC BY-NC-ND
-lastmod: '2024-03-17'
+lastmod: '2024-12-07'
 image: "about_cover.jpg"
 links:
   - title: GitHub
@@ -16,6 +16,9 @@ links:
   - title: Mastodon
     website: https://det.social/@tripletwenty
     image: mastodon-logo.png
+  - title: Substack - Code And Cake
+    description: All my posts are also available on Substack, if you fancy that. A subscribe would make me happy <3
+    website: https://codeandcake.substack.com/
   - title: TripleTwenty
     description: I host a german RPG podcast where I play games like Dungeons & Dragons or Fate with Friends
     website: https://tripletwenty.net

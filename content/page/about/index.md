@@ -42,7 +42,8 @@ menu:
 Hi there and welcome to my personal blog!
 I use this space to explore my own thoughts in writing, focusing on engineering processes, leadership and professional growth.
 
-Creating my own video games was my gateway into the software engineering world. Over the years solving problems has become my passion and everyday motivation.
-I love to contiously test my limits, while continuing to improve the skills i already have - Always aiming to be better than yesterday.
+As an engineering leader with a hands-on approach, I thrive on solving challenges and fostering growth—both in myself and the teams I lead. My journey began with the goal of creating my own video games, but it quickly evolved into a lifelong pursuit of continuous improvement. For me, every day is an opportunity to learn, adapt, and build on what I already know.
 
-I believe that work should be both fun and challenging and that teams excells when they can trust and support each other - from the smallest to the biggest tasks. 
+I believe the best learning comes from overcoming obstacles. As challenges grow larger, they often require the collective strength of a team. That’s why my focus extends beyond personal growth to empowering those around me to succeed and grow as well.
+
+Passion is the engine of productivity, and it thrives on trust and transparency. I’m committed to creating environments where people feel supported and inspired to do their best work. Because in the long run, nothing outweighs the power of passionate, aligned, and happy teams.

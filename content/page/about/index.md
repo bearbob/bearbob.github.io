@@ -14,7 +14,7 @@ links:
     website: https://github.com/bearbob
     image: github-mark.png
   - title: Mastodon
-    website: https://det.social/@tripletwenty
+    website: https://hachyderm.io/@bearbob
     image: mastodon-logo.png
   - title: Substack - Code And Cake
     description: All my posts are also available on Substack, if you fancy that. A subscribe would make me happy <3

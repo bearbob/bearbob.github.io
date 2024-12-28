@@ -19,10 +19,6 @@ links:
   - title: Substack - Code And Cake
     description: All my posts are also available on Substack, if you fancy that. A subscribe would make me happy <3
     website: https://codeandcake.substack.com/
-  - title: TripleTwenty
-    description: I host a german RPG podcast where I play games like Dungeons & Dragons or Fate with Friends
-    website: https://tripletwenty.net
-    image: tripletwenty_400.jpg
   - title: LinkedIn
     website: https://www.linkedin.com/in/bjoern-schmidt/
     image: linkedin-logo.png

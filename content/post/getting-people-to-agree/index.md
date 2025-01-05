@@ -1,7 +1,7 @@
 +++
 title = 'Modelling Stakeholder Alignment'
-date = 2025-01-05T21:15:00+01:00
-lastmod = 2025-01-05T21:15:00+01:00
+date = 2025-01-05T15:58+01:00
+lastmod = 2025-01-05T15:58:00+01:00
 description = "Getting People to Agree To Change"
 draft = false
 tags = ["alignment", "solution", "leadership", "management", "communication"]

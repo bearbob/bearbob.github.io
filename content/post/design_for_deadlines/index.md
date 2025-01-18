@@ -1,6 +1,6 @@
 +++
 title = 'Designing for Deadlines'
-date = 2025-01-18T15:00:00+01:00
+date = 2025-01-18T14:57:00+01:00
 lastmod = 2025-01-18T15:00:00+01:00
 description = "Crafting Solutions Within Real-World Limits"
 draft = false

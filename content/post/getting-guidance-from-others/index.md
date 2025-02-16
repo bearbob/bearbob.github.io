@@ -1,7 +1,7 @@
 +++
 title = 'Getting Guidance From Others'
 date = 2025-02-16T15:00:00+01:00
-lastmod = 2025-02-16T15:00:00+01:00
+lastmod = 2025-02-16T17:50:00+01:00
 description = "How to get started with asking others for advice"
 draft = false
 tags = ["coaching", "career", "growth", "mentoring", "communication"]
@@ -24,23 +24,26 @@ Luckily, you are not alone. You can tap into the experiences of others to lift t
 
 ## You're an engineer leader, Harry!
 
-In early 2024 I was Tech Lead for two teams with roughly 20 engineers. When we were going through a re-org, two more teams were added and more than doubled the amount of engineers. 
-This was big and I felt lost. 
-For two teams I managed to be omni-present and have insights into every project that was happening. It was stressful, but possible. Now we had more than 10 different initiatives constantly running at the same time. 
+In early 2024 I was Tech Lead for two teams with roughly 20 engineers. When we were going through a re-org, two more teams were added. 
+THis more than doubled the amount of engineers. 
+It was big and I felt lost. 
+
+For two teams I managed to be omni-present and have insights into every project that was happening. It was stressful, but possible. 
+Now, we had more than 10 different initiatives constantly running at the same time. 
 What I had done so far became impossible, I would become a bottleneck. 
 This situation was new to me, I had no clue what I should focus on. How could I effectively delegate? How could I keep certain standards without constantly checking in and micro-managing people?
 
-To my luck, our group wasn't the biggest. We had other people who already faced the same challenges as I.
-Now I only had to figure out how to take advantage of that - by getting them to answer my questions.
+To my luck, our group wasn't the biggest. We had other people who already faced the same challenges.
+Now, I only had to figure out how to take advantage of that - by getting them to answer my questions.
 I vaguely knew what they are doing, but how does it look from their perspective? What are the struggles? 
 
-I had 4 short coffee chats with people - All of them helped me tremendously, one has been my mentor since then. 
+I had 4 short coffee chats with different people - All of them helped me tremendously, one has been my mentor since then. 
 They did not solve my problems. 
 Instead, they showed me options on how I could find solutions myself by inspiring me with their experiences.
 
 ## You can do it
 
-What worked for me has worked for others and can work for you as well! 
+What worked for me has worked for others - and can work for you as well! 
 I have given this advice to quite a few people by now, time to put it into writing.
 So, let's make this practical - Here is what you need to do in four steps:
 

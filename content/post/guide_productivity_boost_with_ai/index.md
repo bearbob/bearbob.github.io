@@ -88,7 +88,7 @@ To make communication easier, in the following parts we will refer to LLMs as "A
     - **Example Workflow**: After a meeting, upload the transcript to the AI and request it to generate structured meeting notes or an RFC document. This helps in organizing information and making it more accessible for future reference.
     - **Example Prompt**:
     ```
-        I will send you a transcript of a meeting. In the meeting, several engineers discussed an architecture design for a feature that will be worked on with two different teams. Björn is representing the Lifecycle team, Richard and Calvin are mobile engineers and Neeraj and Aishwarya are backend engineers for the Junior team. The feature is called "Junior" or "Child account". 
+        I will send you a transcript of a meeting. In the meeting, several engineers discussed an architecture design for a feature that will be worked on with two different teams.  
         Using the transcript, please create a summary with the following structure:
         - Overview
         - Problem Statement

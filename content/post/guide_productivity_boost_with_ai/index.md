@@ -92,7 +92,7 @@ To make communication easier, in the following parts we will refer to LLMs as "A
         Using the transcript, please create a summary with the following structure:
         - Overview
         - Problem Statement
-        - Proposed Solutuion
+        - Proposed Solution
         - Discussion
         - Action Items
 

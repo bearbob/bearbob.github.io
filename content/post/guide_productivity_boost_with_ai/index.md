@@ -1,7 +1,7 @@
 +++
 title = 'Productivity Boost With AI'
 date = 2025-03-10T12:06:00+01:00
-lastmod = 2025-103-10T12:06:00+01:00
+lastmod = 2025-03-10T12:06:00+01:00
 description = "Basic guide on how to leverage AI-support for increased productivity"
 draft = false
 tags = ["chatgpt", "coaching", "engineering", "ai-coding", "copilot", "prompt engineering"]

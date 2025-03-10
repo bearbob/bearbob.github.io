@@ -303,6 +303,7 @@ Don't be afraid to experiment with different prompts and approaches. The more yo
 - [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 - [LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy#h-1-sometimes-one-prompt-isn-t-enough)
 - [Parts of a Prompt: Understanding the Key Elements](https://learnprompting.org/docs/basics/prompt_structure)
+- [10 Techniques for Effective Prompt Engineering](https://www.lakera.ai/blog/prompt-engineering-guide)
 
 ## Conclusion
 

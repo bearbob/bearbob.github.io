@@ -104,7 +104,7 @@ To make communication easier, in the following parts we will refer to LLMs as "A
     - **Example Workflow**: Provide the AI with two versions of a document and ask it to highlight the differences and similarities. This is useful for reviewing changes in documents or code.
 - **Generate Tickets**: Given a collection of RFCs/PRDs, split work into building blocks and generate actionable tickets.
     - **Example Workflow**: Input a detailed project requirement document into the AI and ask it to break down the tasks into smaller, manageable tickets for your project management tool. This helps in planning and tracking progress.
-- **Sample Prompt**: "Please generate actionable tickets from the following project requirement document: [Insert document here]."
+    - **Example Prompt**: "Please generate actionable tickets from the following project requirement document: [Insert document here]."
 - **Change Tone**: Modify the tone of a message (e.g., "Make my message sound friendly, but assertive").
     - **Example Workflow**: Draft a message and ask the AI to adjust the tone to be more friendly or assertive, depending on the context. This ensures that your communication is appropriate for the audience.
     - **Example Prompt**: 

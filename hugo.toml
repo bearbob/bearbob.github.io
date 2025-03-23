@@ -1,11 +1,11 @@
-baseURL = 'https://bearbob.github.io/'
+baseURL = 'https://source.codencake.com/'
 languageCode = 'en-us'
-title = 'Better Than Yesterday'
+title = 'Code And Cake'
 enableRobotsTXT = true
 enableEmoji = true
 theme = 'stack'
 paginate = 5              # Number of articles displayed on the homepage
-rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
+rssLimit = 20             # Limit Entry Count to Rss file
 googleAnalytics = ""      # UA-XXXXXXXX-X
 defaultContentLanguage = "en"           # Default language to use
 [languages.en]
@@ -20,10 +20,10 @@ defaultContentLanguage = "en"           # Default language to use
   author.url = "/about"        # optional 
 
   # site info (optional)                              
-  logoTitle = "Better Than Yesterday"        # default: the title value
+  logoTitle = "Code And Cake"        # default: the title value
   keywords = ["engineering", "blog","leadership"]
   description = "A personal blog about engineering leadership."
-  favicon = "/thumbnail.png"
+  favicon = "/favicon.webp"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormat.published = "Jan 02, 2006"

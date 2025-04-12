@@ -1,7 +1,7 @@
 +++
 title = 'Code And Cake'
-date = 2025-04-12T07:52:00+01:00
-lastmod = 2025-04-12T07:52:00+01:00
+date = 2025-04-12T05:52:00+00:00
+lastmod = 2025-04-12T05:52:00+00:00
 description = "Finding my writing voice"
 draft = false
 tags = ["writing", "meme"]

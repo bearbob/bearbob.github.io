@@ -6,7 +6,7 @@ aliases:
   - about-me
   - contact
 #license: CC BY-NC-ND
-lastmod: '2024-12-07'
+lastmod: '2025-04-12'
 image: "about_cover.jpg"
 links:
   - title: GitHub

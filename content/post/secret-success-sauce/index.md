@@ -1,10 +1,10 @@
 +++
 title = 'Secret Success Sauce'
-date = 2025-05-10T20:40:00+00:00
-lastmod = 2025-05-10T20:40:00+00:00
+date = 2025-05-11T06:00:00+00:00
+lastmod = 2025-05-11T06:00:00+00:00
 description = "Can you advance your career with a single secret that succeassful people don't share?"
 draft = false
-tags = ["coaching", "growth", "career", "philosophie"]
+tags = ["coaching", "growth", "career", "philosophy"]
 author = "bjoern"
 comment = false
 toc = true

@@ -1,5 +1,5 @@
 +++
-title = 'Predict The Future'
+title = 'Cooking The Future'
 date = 2025-05-29T06:47:00+01:00
 lastmod = 2025-05-29T06:47:00+01:00
 description = "Why bread looks a bit different every time - Or: Applying data to predict outcomes"

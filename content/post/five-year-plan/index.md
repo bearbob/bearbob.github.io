@@ -1,7 +1,7 @@
 +++
 title = 'The Five-Year-Plan'
-date = 2025-06-29T20:20:00+01:00
-lastmod = 2025-06-29T20:20:00+01:00
+date = 2025-06-29T20:22:21+01:00
+lastmod = 2025-06-30T07:38:00+01:00
 description = "A personal collection of actionable steps to unearth the goals you want to achieve"
 draft = false
 tags = ["coaching", "growth", "learning"]
@@ -83,6 +83,8 @@ A growth plan is extremely specific - it takes into account a specific environme
 You can take a look at other peoples growth plans, but my personal feeling is that it makes it easier to copy goals because they sounds reasonable.
 Coming up with your own goals, going through the full thought process, is much more powerful.
 
+![](meme-what-i-want.jpg)
+
 My recommendation is to approach the exercise differently - instead of figuring out what you want, figure out what you don't want first.
 
 As an example: 
@@ -145,7 +147,7 @@ Or, to rephrase: I want to play with my kid.
 This goal does not require me to run long distances multiple times per week.
 I don't need to do deadlifts, bench press and barbell squats.
 I don't need to gain a lot of weight.
-This helps me setting focus on how I need to train.
+This helps me setting focus on how I need to train - If I am short on time, which I usually am, I can train with body weight and dumbbells at home and still make progress towards my goal.
 
 The same logic applies to my work life.
 I want to be a great engineering leader.
@@ -157,6 +159,8 @@ Similar to the fitness goal, "don't need" does not mean "don't spend any time he
 But if I am short on time, I will gain more from focusing on my goals.
 
 ## Taste Test
+
+![](five-year-plan-schema.png)
 
 At this point I heavily encourage you to try the thought process for yourself.
 Think about what you like and how you define those things.

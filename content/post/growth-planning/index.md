@@ -17,7 +17,7 @@ today we will be creating an effortless growth vision.
 You may know traditional recipes for growth plans. 
 How much mental work they are.
 How easy it is to do them later (or never).
-Today we will challenge this with a quiz that is supposed to help you kick thinhs off.
+Today we will challenge this with a quiz that is supposed to help you kick things off.
 
 You will need the following things:
 - 1 pen
@@ -37,14 +37,14 @@ I know that.
 Yet it took me until early 2024 to write a real growth plan.
 Not a pseudo one to show my managers and say "Yes look, I have a growth plan."
 
-I procrastinaged more than a year. 
+I procrastinated more than a year. 
 Despite knowing how important it was.
 
 Why?
 Because it was soooo much work. 
 So much mental work to do, so exhausting. 
 
-In the end I set a timer for 60 minutes, tppl a piece of paper and a pen and starred at 
+In the end I set a timer for 60 minutes, took a piece of paper and a pen and starred at 
 it until the boredom became more exhausting than finally writing the fucking growth plan.
 I managed. 
 Would I do it again?
@@ -83,7 +83,7 @@ That works for recipes.
 
 For growth plans it is not as easy, unfortunately.
 A growth plan is extremely specific - it takes into account a specific environment, previous experience and personal goals.
-You can take a look at other peoples growth plans, but my personal feeling is that it makes it easier to copy goals because they sounds reasonable. They might not be the best goals for you though. 
+You can take a look at other people's growth plans, but my personal feeling is that it makes it easier to copy goals because they sounds reasonable. They might not be the best goals for you, though. 
 Coming up with individual goals, going through the full thought process, is much more powerful.
 
 My recommendation is to approach the exercise differently - instead of figuring out what you want, figure out what you don't want first.
@@ -117,7 +117,7 @@ Instead of offering my own words, I want to share this excellent advice:
 > Source: https://substack.com/@alaex/note/c-108058833
 
 What would the best version of your current self look like?
-Every statement creates a requirement, which again creates more low-level requirements.
+Every statement creates a requirement, which in turn creates more low-level requirements.
 This allows you to define your short and long-term goals.
 
 The statements do not only cover your work, I suggest that you think about everything you want to achieve in your life.
@@ -172,7 +172,7 @@ This is why it is important to take your personal life into account when writing
 I heavily encourage you to try the thought process for yourself.
 Think about what you like and how you define those things.
 I also recommend to not just think about them, but write them down.
-Putting thoughts into written words requires a structured way of thinking that can help you spot questions and empty spaces
+Putting thoughts into writing requires structured thinking that can help you spot questions and empty spaces
 that suddenly appear.
 
 If you have somebody you trust, share your thoughts with them and request that they ask you critical questions.

@@ -24,7 +24,7 @@ I don't have clothes suitable for that weather, the car has no winter tires, the
 
 To quote myself: "Well, looks like I am in deep shit."
 
-![](northern-vacation.png)
+![This is not what I had planned.](northern-vacation.png)
 
 ## Not All Problems Are Equal
 
@@ -42,7 +42,7 @@ And of course something in the middle. To give an example:
 - There is a hole in the wall of your house. Well, that's not a small problem anymore.
 - Your house burned down. Escalating quickly, but that's undeniably a huge problem. 
 
-![Types Of Problems](types-of-problems.png)
+![There are diffferent types of problems, that need to be addressed differently.](types-of-problems.png)
 
 Each of these problems needs a different solution to be addressed. 
 While the dirty window can also be ignored for a while, the bigger the problem gets the more it will hurt to not act on it.
@@ -52,7 +52,7 @@ Because usually problems are not isolated and kindly wait until you solve one be
 So, a car crashed into the wall of your house, causing a huge hole and partially destroying the kitchen, which caused a small fire. Due to the "structural change" of the wall, your front door no longer closes properly anymore. 
 And a bird pooped on your window.
 
-![Combined Problems](huge-problems.png)
+![In reality, we often face combined problems, where a bunch of small and medium sized issues turn into a horrible mess together](huge-problems.png)
 
 ## Biggest Impact first...?
 
@@ -63,7 +63,7 @@ In my career, I have been trained to figure out the problem with the biggest imp
 However, when you face a huge problem that is actually a composite of multiple problems, this can feel overwhelming.
 And I argue that you don't need to lay out a plan first - Just get started on whatever is the first thing you can and want to tackle. You face a huge pile of bricks; start with any brick instead of spending time deciding which brick to touch in which order. Even if that brick is "Clean the bird poop from the window".
 
-![](start-with-poop.png)
+![Cleaning the bird poop might not solve all issues, but it lifts the mental weight on your shoulders and can help gaining momentum.](start-with-poop.png)
 
 Once you gained momentum, use that energy to tackle the next issue. Check what you can parallelize. 
 For my travel plans, I could have started by making a list of clothes I would need and thought about what other things I may have overlooked. 

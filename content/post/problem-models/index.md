@@ -1,5 +1,5 @@
 +++
-title = 'It cannot be that simple'
+title = 'It Cannot Be That Simple'
 date = 2025-11-05T07:00:00+01:00
 lastmod = 2025-11-05T07:00:00+01:00
 description = "How simplifying a complex problem can avoid overwhelm while still giving useful results"
@@ -56,7 +56,7 @@ What works in physics also often works with real-world problems.
 
 We abstract to focus on specific parts of a problem and not get overwhelmed by complexity that does not change the outcome.
 - Defining user personas to analyze potential of a new product. Every person is an individual, but we can find groups of people that share certain characteristics that are relevant to our assessment
-- Risk assessment before a launch. Many things can go wrong, but most of the time it makes more sense to focus on the likely scenarios rather than the rare ones (e.g., `us-east-1`)
+- Risk assessment before a launch. Many things can go wrong, but most of the time it makes more sense to focus on the likely scenarios rather than the rare ones (looking at you, `us-east-1`)
 - Architecture design for a system, working based on assumptions about future needs. We don't know what the future holds, so we need to design our domains as models to know whether a potential change fits them or not
 - Incident analysis. While each one is unique, finding patterns requires analyzing individual events at a higher level of abstraction.  
 

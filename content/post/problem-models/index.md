@@ -106,11 +106,11 @@ Clear, actionable checklist replacing an overwhelming list of loosely ranked wor
 
 ## Apply This Yourself
 
-1. Write the naive version.
-2. Solve it.
-3. List excluded factors.
-4. Add only the next factor that can change a decision.
-5. Stop when additions produce diminishing returns.
+1. Write the naive version of your problem
+2. Solve it
+3. List excluded factors
+4. Add only the next factor that can change a decision
+5. Stop when adding more factors introduces more issues than benefits for the solution
 
 Applying this concept transforms an overwhelming problem into a manageable modeling exercise: simplify, validate, refine.
 

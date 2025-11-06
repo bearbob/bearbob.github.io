@@ -114,3 +114,5 @@ Clear, actionable checklist replacing an overwhelming list of loosely ranked wor
 
 Applying this concept transforms an overwhelming problem into a manageable modeling exercise: simplify, validate, refine.
 
+Final meme tax:
+![](meme_boromir.png)

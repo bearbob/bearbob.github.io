@@ -62,5 +62,55 @@ We abstract to focus on specific parts of a problem and not get overwhelmed by c
 
 ![](model_flow.png)
 
+## Walkthrough: Modeling a Feature Launch Risk
+
+Assume the following scenario: You are launching a new feature. The goal is to reduce unexpected failure during the first launch week to prevent negative social media coverage.
+
+Raw complexity (initial brain dump):
+- traffic spikes, cache warm-up behavior, DB connection pool exhaustion
+- partial dependency unavailability or even outages
+- unexpected user input
+- fraud attempts
+- regional latency variance
+- concurrency edge cases
+- unexpected load scenarios overwhelming the service
+
+We can group these risks into three categories;: Capacity, Correctness, Dependencies.
+
+
+### Step 1 – Simplest model (drop the coin):
+Looking at past launches, we assume the biggest problem to be capacity. We don't know how many requests we will actually deal with, but we need to understand where our healthy limits are to keep control (eg by slowing down marketing communication).
+
+Action from this model:
+- Run load tests with synthetic peak based on historic data for launches
+
+### Step 2 – Add one factor (throw the coin):
+Our next problem is correctness. While we have tested extensively, we are aware that real users often behave in unpredictable ways. 
+
+Action from this model:
+- Enable an internal launch and production test, allowing a selective set of users to play around
+
+### Step 3 – Add another factor (throw the coin away):
+Add dependencies into the model, split into External (payment, tax, ...) and Internal (transaction history, onboarding, ...).
+
+New action:
+- Run load test with dependencies included in the test
+- Analyse past data for outages of dependencies
+- Circuit breaker thresholds defined
+
+### Step 4 – Add air resistance (only if needed):
+Further additions (fraud anomaly modeling, regional latency decomposition) do not change the launch decision this week - and might overcomplicate. Instead, we defer and schedule another post-launch modeling when we have more information. 
+
+### Outcome:
+Clear, actionable checklist replacing an overwhelming list of loosely ranked worries.
+
+## Apply This Yourself
+
+1. Write the naive version.
+2. Solve it.
+3. List excluded factors.
+4. Add only the next factor that can change a decision.
+5. Stop when additions produce diminishing returns.
+
 Applying this concept transforms an overwhelming problem into a manageable modeling exercise: simplify, validate, refine.
 

@@ -30,7 +30,7 @@ All questions that go through your mind again and again are worth spending more 
 At a first glance a growth plan is similar to a **Career Development Plan** - a list of steps and milestones to accelerate your professional career. And that can be true, but then you are missing out on a lot of learning opportunities that will help you later (as I've touched before in [this article](https://source.codencake.com/post/growth_vs_career/)).
 
 I am also strong advocate for not seeing yourself only as a professional being, but including your private life. 
-Both aspects can influence each other heavily and that needs to be considered. If I want to be present as a father, working 12 hours per day will align with that goal. 
+Both aspects can influence each other heavily and that needs to be considered. If I want to be present as a father, working 12 hours per day will not really align with that goal. 
 
 To summarize, a growth plan is a list of goals, milestones and steps that define how I want to live my life over the next years and what I want to achieve. 
 

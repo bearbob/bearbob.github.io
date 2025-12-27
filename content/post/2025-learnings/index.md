@@ -68,7 +68,7 @@ Drawing pictures, creative writing, making movies.
 > You know what the biggest problem with pushing all-things-AI is? 
 > Wrong direction.
 > I want AI to do my laundry and dishes so that I can do art and writing, not for AI to do my art and writing so that I can do my laundry and dishes.
-> - [Joanna Maciejewska](https://indiepocalypse.social/@AuthorJMac/112178826967890119)
+> ~ [Joanna Maciejewska](https://indiepocalypse.social/@AuthorJMac/112178826967890119)
 
 I am not saying that there are no use cases for this. 
 I am not saying any human will do a better job (though that would be a fun argument to have, talking about the soul of work). 

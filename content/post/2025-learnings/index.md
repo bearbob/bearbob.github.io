@@ -1,8 +1,8 @@
 +++
 title = 'Five Learnings from 2025'
 date = 2025-12-26T22:41:21+02:00
-lastmod = 2025-12-27T08:51:00+02:00
-description = "Looking back at 2025 and the five personal learnings that shaped it for me"
+lastmod = 2025-12-27T08:56:00+02:00
+description = "Looking back at 2025 and some of the personal learnings that shaped it for me"
 draft = false
 tags = ["growth", "learning", "incidents", "discovery", "ai", "biases"]
 author = "bjoern"

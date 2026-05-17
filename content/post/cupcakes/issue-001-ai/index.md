@@ -23,7 +23,7 @@ Whether it is creating an image, your browser offering to summarize a websites c
 1. [Research-Driven Engineering Leadership - How can engineering leaders assess their AI maturity?](https://open.substack.com/pub/rdel/p/rdel-136-how-can-engineering-leaders)
 2. [Hiddenlayer - Malware in trending hugging face repo](https://www.hiddenlayer.com/research/malware-found-in-trending-hugging-face-repository-open-oss-privacy-filter)
 3. [Kent Beck: Genie Tarpit](https://open.substack.com/pub/tidyfirst/p/genie-tarpit)
-4. [AI as a Fascist Artifact](https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/)
+4. [tante - AI as a Fascist Artifact](https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/)
 5. [Maggie Appleton - Gas Town’s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
 6. [Steven Langbroek - Programming Still Sucks.](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
 7. [The Pragmatic Engineer - Did capacity shortages turn Anthropic hostile to devs?](https://open.substack.com/pub/pragmaticengineer/p/the-pulse-did-capacity-shortages-0e6?utm_medium=cake)

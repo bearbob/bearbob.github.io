@@ -16,18 +16,20 @@ Today I will tell you what happened and what hindsight bias has to do with it.
 
 ## The Setup
 
-I do have a regular fitness routine and from time to time I hurt my back by straining a muscle. 
-It's a very unpleasant feeling and makes you realise how many daily movements require your lower back to be flexible. 
+I have a regular fitness routine. From time to time I hurt my back by straining a muscle. 
+It's a very unpleasant feeling and every time it happens, I realise how many daily movements require my lower back to be flexible. 
 
-The first time it happened I freaked out and visited my doctor, because I thought I had dislocated my spine. Her answer was that I "need to chill more and stay relaxed, or the tension will just become worse".
+The first time it happened I freaked out. I visited my doctor, thinking I had dislocated my spine. Her answer was that I "need to chill more and stay relaxed, or the tension will just become worse". 
 
-She was right and over the years I learned to be more careful and that slow stretching is both great for prevention and to help it heal faster. Sometimes a very light workout to keep the muscles moving was also of great help. Usually the whole thing takes about 5 to 7 days and then all is good again.
+She was right and over the years I learned to be more careful in these moments. Slow stretching is both great for prevention and to help it heal faster. Sometimes a very light workout to keep the muscles moving was also of great help. Usually the whole issue takes about 5 to 7 days and then all is good again.
 
 ## 2026
 
-Knowing these things, we fast forward to this spring. It's always a bit hard to pinpoint which action exactly caused the strain, but a day after a heavy workout in the gym I noticed this familiar feeling again. So I did the usual routine - stretching and a light workout. And it helped as usual. Over the next hours it would become better and when I wake up the next morning it would be nothing but a memory.
+Knowing these things, we fast forward to this spring. It's always a bit hard to pinpoint which action exactly caused the strain, but a day after a heavy workout in the gym I noticed this familiar feeling again. So I did the usual routine - stretching and a light workout. And it helped as usual. Over the next hours it became better, surely when I wake up the next morning it would be nothing but a memory.
 
-Not this time. With every hour it became worse and by the evening I was not able to make any movement without pain. Think of me screaming into the void here.
+![](ah-shit-here-we-go-again-meme.webp)
+
+Not this time. While it initially was better, it got worse around evening. By the time I usually go to bed I was not able to make any movement without pain. Think of me screaming into the void here.
 
 The pain was bearable, so over the next days I kept working and doing my basic chores, but besides that focused on resting and lying down. But the experience was not pleasant, the pain made me tired and it took a really long time to improve. Every day was a little bit better than the day before, but instead of taking a week the whole story stretched over 3 weeks. 
 
@@ -45,6 +47,8 @@ When going for the shower I caught a brief glimpse of myself in the mirror and s
 When you were reading the events, you probably have thought about what was going on and where things went wrong. 
 I did the same, basically every night. Analysing what I had done that day and if I should have done something different.
 Was it good that I tried light movement? Should I have stayed in bed? Was sitting on a chair smart?
+
+![](meme_slide.jpeg)
 
 After each decision it is quite easy to say if it was a good idea or not, because the pain either got better or worse.
 This is what we call "hindsight", and it makes it very easy to judge people for their behaviour. Knowing how the story ends shapes your whole perception of events and actions taken before. 
@@ -70,5 +74,7 @@ Did they not know where to look?
 I tried to help myself with physical exercise. In hindsight not a great idea.
 An engineer might restart a system, but failure continues. You may later be tempted to ask: "Why didn't they do the right thing from the start?".
 Don't do it. 
+
+![](meme_picard.jpeg)
 
 Instead, focus on the signals they saw and how you can make the critical signals more visible in the future. We are not only reviewing incidents to figure out what happened. We are reviewing them to learn and improve in the future. Like I have changed my exercise routine to make my back more flexible. We learn and we improve for the future.

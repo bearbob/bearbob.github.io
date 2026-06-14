@@ -8,9 +8,7 @@ on:
       - main
   schedule:
     - cron: '47 7 * * *'  # Runs at 07:47 UTC every day. Weird time, choosen to avoid conflicts with other scheduled workflows
-  concurrency:
-    # run only latest version
-    cancel-in-progress: true
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 

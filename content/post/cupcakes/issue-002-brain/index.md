@@ -2,7 +2,7 @@
 title = 'Cupcake #2: Brain'
 date = 2026-06-14T15:33:21+02:00
 lastmod = 2026-06-14T15:33:21+02:00
-description = "Newsletter: "
+description = "Newsletter: Thinking about thinking"
 draft = false
 tags = ["newsletter", "brain", "psychology", "cupcake"]
 author = "bjoern"

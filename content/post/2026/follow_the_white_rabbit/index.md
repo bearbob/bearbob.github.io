@@ -1,7 +1,7 @@
 +++
 title = 'Follow The White Rabbit'
-date = 2026-06-02T21:56:22+02:00
-lastmod = 2026-06-02T21:56:22+02:00
+date = 2026-06-24T21:20:22+02:00
+lastmod = 2026-06-24T21:20:22+02:00
 description = "Understanding how to unblock yourself when getting lost in an incident or a bug hunt"
 draft = false
 tags = ["incidents", "story", "method", "coaching"]

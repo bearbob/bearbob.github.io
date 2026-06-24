@@ -16,10 +16,10 @@ What made it so frustrating was not the fact that it happened a few minutes befo
 Nor was it the impact for our users.
 What almost made me rage-quit was watching the team being completely stuck. They were like Alice, trying to follow the white rabbit through wonderland.
 
-> Alice: Would you tell me, please, which way I ought to go from here?
-> The Cheshire Cat: That depends a good deal on where you want to get to.
-> Alice: I don't much care where.
-> The Cheshire Cat: Then it doesn't much matter which way you go.
+> Alice: "Would you tell me, please, which way I ought to go from here?"<br/>
+> The Cheshire Cat: "That depends a good deal on where you want to get to."<br/>
+> Alice: "I don't much care where."<br/>
+> The Cheshire Cat: "Then it doesn't much matter which way you go."
 
 ## Where Do You Start?
 When you notice a problem, you see a symptom and (often) already have a vague idea of what could be causing the problem here. We usually don't spend too much thought about it, but this symptom most usually is just one of many. 

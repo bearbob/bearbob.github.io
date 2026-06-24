@@ -53,7 +53,7 @@ This is the state my team was facing. Being lost at times is natural. However, t
 Things (usually) don't recover on their own when they are broken.
 When you get lost, you need to take a step back and challenge what you know. 
 
-## Nothing is working until you prove it does
+## Nothing Works Until Proven Otherwise
 
 Draw out every step (that you know of) of the process as it should be working.
 If you start working backwards from the final impact, there will be too many options, so you have to narrow it down.
@@ -88,7 +88,7 @@ It is focused on finding a symptom that we can mitigate - In the case of our exa
 
 However, the actual root cause analysis should not end with "We had a faulty message". Why did we have a faulty message in the first place? There are a lot of other things to consider and ask - But this is not the goal of the white rabbit model. It exists to mitigate by confirming assumptions with data, not gut feeling.
 
-## Catching the white rabbit
+## Catching The White Rabbit
 
 Handling incidents can be stressful. 
 Stress can lead to confusion - A state you don't want to end up with, because it makes the pressure worse. 

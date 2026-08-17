@@ -1,5 +1,5 @@
 +++
-title = 'Good Work Isn't Rewarded'
+title = "Good Work Isn't Rewarded"
 date = 2026-08-17T17:37:00+02:00
 lastmod = 2026-08-17T17:37:00+02:00
 description = "Cleaning up with the idea that doing a good job is enough to get you promoted"

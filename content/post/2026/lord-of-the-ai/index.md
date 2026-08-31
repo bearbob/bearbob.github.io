@@ -1,5 +1,5 @@
 +++
-title = 'GenAI is The One Ring'
+title = 'Is GenAI The One Ring?'
 date = 2026-08-31T18:26:21+02:00
 lastmod = 2026-08-31T18:26:21+02:00
 description = "Comparing GenAI to the most famous ring of power. Will GenAI rule them all?"

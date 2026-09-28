@@ -15,7 +15,7 @@ One thing I love about the internet is how easy it is to get confused in time. Y
 
 ## Cupcake June 2026 - Brain
 
-This issue is all around the brain. how weird it is and the issues we deal with in our life, both in private and professionally.
+This issue is all around the brain. How weird it is and the issues we deal with in our life, both in private and professionally.
 
 1. [Aeon - Your Brain Does Not Process Information And It Is Not A Computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) is a longer, but very interesting read taking a jab at our current idea of how the brain works. I also enjoyed the showcase of how ridicoulous past beliefs about the brain are to us, yet it seems hard to imagine that our current belief is anything but the right one. 
 2. [Developer Success Lab - Code Review Anxiety Workbook](https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1) focuses on a very practical moment in the life of a software developer - giving or receiving a code review. However, the intervention techniques explained in the workbook are valuable in many other situations. 

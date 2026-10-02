@@ -1,7 +1,7 @@
 +++
 title = 'Managing Problems'
-date = 2026-10-02228:34:21+02:00
-lastmod = 2026-10-02228:34:21+02:00
+date = 2026-10-02T22:34:21+02:00
+lastmod = 2026-10-02T23:52:40+02:00
 description = "Explaining when to manage a problem and when to solve it"
 draft = false
 tags = ["coaching", "engineering", "advice", "method"]
